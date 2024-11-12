@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnlineVotingPRJ</string>
+    <string name="fill_in_the_spaces">Fill in the spaces</string>
+    <string name="textview">WELCOM TO UMP ONLINE VOTING</string>
+</resources>
